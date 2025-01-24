@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yasin-erkan-b8a10594/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://[www.linkedin.com/in/yasin-erkan-b8a10594/](https://www.linkedin.com/in/yasin-erkan-b8a10594/)) 
 
 # 💻 Tech Stack:
 ### 🛠 Tech Stack
