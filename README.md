@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<br>🔭I am currently working ELS<br><br>🌱 I'm currently dealing with  software engineering and I'm still improving myself.<br><br>🔮 I develop projects with React, Javascript and probably soon in React, Nodejs and React-Native<br><br>💬 Ask me about React JS,React Native,Javascript<br><br>🤭 I love discovering and learning new things about  software<br><br>📫 How can you reach me yasintahaerkan@gmail.com
+<br>🔭I am currently working ELS<br><br>🌱 I'm currently dealing with  software engineering and I'm still improving myself.<br><br>🔮 I develop projects with React, Javascript and probably soon in React, Nodejs and React-Native(already started ;) )<br><br>💬 Ask me about React JS,React Native,Javascript<br><br>🤭 I love discovering and learning new things about  software<br><br>📫 How can you reach me yasintahaerkan@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-erkan-b8a10594/)
