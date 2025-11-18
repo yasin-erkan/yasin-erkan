@@ -4,8 +4,10 @@ Hi, it`s me, Yasin !! 🤭
 <br>🔭I was trained previously as ELS tutor and had great experinece in related field<br><br>🌱 To follow my passion and interest I have been  dealing with software engineering and I'm still improving myself.<br><br>🔮 I develop projects with Javascript, React, Angular, Vue.js, Typscript and Next.js in Front-end; <br><br> Nodejs, Express.js, MongoDb, Nest.js, Firebase, Postgresql in Back-end;<br><br> lastly React Native CLI and Expo techs in Mobile development;) )<br><br>💬 Ask me about all ! <br><br>🤭 I love discovering and learning new things about  software<br><br>📫 How can you reach me yasintahaerkan@gmail.com || yasinerkan@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-e-b8a10594/)
-➡️ https://www.linkedin.com/in/yasin-e-b8a10594/
+<a href="https://www.linkedin.com/in/yasin-e-b8a10594/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+
 
 <br><br>
 # 💻 Tech Stack:
