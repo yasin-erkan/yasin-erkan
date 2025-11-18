@@ -5,6 +5,7 @@ Hi, it`s me, Yasin !! 🤭
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-e-b8a10594/)
+➡️ https://www.linkedin.com/in/yasin-e-b8a10594/
 
 <br><br>
 # 💻 Tech Stack:
