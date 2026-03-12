@@ -3,7 +3,6 @@
 
 I am a passionate **Software Engineer** dedicated to building scalable, secure, and user-centric applications. Previously a language tutor, I pivoted to engineering to follow my passion for problem-solving and modern tech.
 
-* 🔭 **Currently Building:** [TradeFlow-MS](https://github.com/yasin-erkan/TradeFlow-MS) - A security-first e-commerce microservices platform.
 * 🌱 **Learning:** Microservices Architecture, Cloud-Native Patterns, and Spring Cloud.
 * 🔮 **Frontend:** React, Angular, Next.js, Vue.js, TypeScript.
 * 🔐 **Backend:** Node.js (NestJS/Express), Java (Spring Boot), MongoDB, PostgreSQL.
